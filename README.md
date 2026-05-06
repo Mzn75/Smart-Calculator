@@ -8,3 +8,6 @@
 - Handle **shapes** (geometry formulas, area, perimeter)  
 - Helps in applying **theorems** step by step  
 - User‑friendly interface designed for students  
+
+## ⚠️ Project Status
+This application is still under development. Some features are incomplete.
