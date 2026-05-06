@@ -1,0 +1,23 @@
+E:\VS Projects\Mz Calculator\Mz Calculator\bin\Debug\net6.0-windows\Mz Calculator.exe
+E:\VS Projects\Mz Calculator\Mz Calculator\bin\Debug\net6.0-windows\Mz Calculator.deps.json
+E:\VS Projects\Mz Calculator\Mz Calculator\bin\Debug\net6.0-windows\Mz Calculator.runtimeconfig.json
+E:\VS Projects\Mz Calculator\Mz Calculator\bin\Debug\net6.0-windows\Mz Calculator.dll
+E:\VS Projects\Mz Calculator\Mz Calculator\bin\Debug\net6.0-windows\Mz Calculator.pdb
+E:\VS Projects\Mz Calculator\Mz Calculator\obj\Debug\net6.0-windows\Mz_Calculator.Form1.resources
+E:\VS Projects\Mz Calculator\Mz Calculator\obj\Debug\net6.0-windows\Mz Calculator.vbproj.GenerateResource.cache
+E:\VS Projects\Mz Calculator\Mz Calculator\obj\Debug\net6.0-windows\Mz Calculator.GeneratedMSBuildEditorConfig.editorconfig
+E:\VS Projects\Mz Calculator\Mz Calculator\obj\Debug\net6.0-windows\Mz Calculator.AssemblyInfoInputs.cache
+E:\VS Projects\Mz Calculator\Mz Calculator\obj\Debug\net6.0-windows\Mz Calculator.AssemblyInfo.vb
+E:\VS Projects\Mz Calculator\Mz Calculator\obj\Debug\net6.0-windows\Mz Calculator.vbproj.CoreCompileInputs.cache
+E:\VS Projects\Mz Calculator\Mz Calculator\obj\Debug\net6.0-windows\Mz Calculator.dll
+E:\VS Projects\Mz Calculator\Mz Calculator\obj\Debug\net6.0-windows\refint\Mz Calculator.dll
+E:\VS Projects\Mz Calculator\Mz Calculator\obj\Debug\net6.0-windows\Mz Calculator.pdb
+E:\VS Projects\Mz Calculator\Mz Calculator\obj\Debug\net6.0-windows\Mz Calculator.genruntimeconfig.cache
+E:\VS Projects\Mz Calculator\Mz Calculator\obj\Debug\net6.0-windows\ref\Mz Calculator.dll
+E:\VS Projects\Mz Calculator\Mz Calculator\obj\Debug\net6.0-windows\Mz_Calculator.Form2.resources
+E:\VS Projects\Mz Calculator\Mz Calculator\obj\Debug\net6.0-windows\Mz_Calculator.Resources.resources
+E:\VS Projects\Mz Calculator\Mz Calculator\obj\Debug\net6.0-windows\Mz Calculator.vbproj.AssemblyReference.cache
+E:\VS Projects\Mz Calculator\Mz Calculator\obj\Debug\net6.0-windows\Mz Calculator.vbproj.CopyComplete
+E:\VS Projects\Mz Calculator\Mz Calculator\bin\Debug\net6.0-windows\ReaLTaiizor.dll
+E:\VS Projects\Mz Calculator\Mz Calculator\obj\Debug\net6.0-windows\Mz_Calculator.Form3.resources
+E:\VS Projects\Mz Calculator\Mz Calculator\obj\Debug\net6.0-windows\Mz_Calculator.Form4.resources
